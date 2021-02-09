@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/adyjul.github.io/static/css/main.590aadf9.chunk.css",
+    "main.js": "/adyjul.github.io/static/js/main.47ce265b.chunk.js",
+    "main.js.map": "/adyjul.github.io/static/js/main.47ce265b.chunk.js.map",
+    "runtime-main.js": "/adyjul.github.io/static/js/runtime-main.208753e9.js",
+    "runtime-main.js.map": "/adyjul.github.io/static/js/runtime-main.208753e9.js.map",
+    "static/js/2.259ab934.chunk.js": "/adyjul.github.io/static/js/2.259ab934.chunk.js",
+    "static/js/2.259ab934.chunk.js.map": "/adyjul.github.io/static/js/2.259ab934.chunk.js.map",
+    "index.html": "/adyjul.github.io/index.html",
+    "static/css/main.590aadf9.chunk.css.map": "/adyjul.github.io/static/css/main.590aadf9.chunk.css.map",
+    "static/js/2.259ab934.chunk.js.LICENSE.txt": "/adyjul.github.io/static/js/2.259ab934.chunk.js.LICENSE.txt",
+    "static/media/Covid.9e5d4fc7.png": "/adyjul.github.io/static/media/Covid.9e5d4fc7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.208753e9.js",
+    "static/js/2.259ab934.chunk.js",
+    "static/css/main.590aadf9.chunk.css",
+    "static/js/main.47ce265b.chunk.js"
+  ]
+}
